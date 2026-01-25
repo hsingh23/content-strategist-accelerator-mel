@@ -1,0 +1,7 @@
+{
+  "name": "Content Strategist Accelerator",
+  "description": "An AI-powered companion for the Content Strategist course. Turn your curriculum into actionable assets, offers, and sales practice simulations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
