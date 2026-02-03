@@ -239,6 +239,8 @@ export const TOOLS: ToolDef[] = [
     3. Scheduling the Shoot (Pre-Production).
     4. Setting expectations for Revisions.`
   },
+
+  
   {
     id: 'conflict-resolver',
     name: 'Client Conflict Resolver',
